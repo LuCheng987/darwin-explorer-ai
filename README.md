@@ -1,4 +1,4 @@
-# Base44 App
+# darwin-explorer-ai App
 
 
 This app was created by ChengLu.
@@ -17,4 +17,3 @@ npm run dev
 npm run build
 ```
 
-For more information and support, please contact Base44 support at app@base44.com.
